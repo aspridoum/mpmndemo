@@ -1,11 +1,11 @@
 {
-  "name": "custom-elements-example",
+  "name": "custom-mpmn-elements",
   "version": "0.0.0",
-  "description": "An example on how to create a custom elements with bpmn-js",
+  "description": "Custom elements for MPMN with bpmn-js",
   "main": "app/app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bpmn-io/bpmn-js-examples"
+    "url": "https://github.com/aspridoum/mpmndemo"
   },
   "scripts": {
     "test": "grunt test",
@@ -13,23 +13,19 @@
     "all": "grunt"
   },
   "keywords": [
-    "bpmnjs-example"
+    "bpmnjs-mpmn"
   ],
   "author": {
-    "name": "Ricardo Matias",
-    "url": "https://github.com/ricardomatias"
+    "name": "Maria Aspridou",
+    "url": "https://github.com/aspridoum"
   },
   "contributors": [
     {
       "name": "bpmn.io contributors",
       "url": "https://github.com/bpmn-io"
-    },
-    {
-      "name": "Philipp Fromme",
-      "url": "https://github.com/philippfromme"
     }
   ],
-  "license": "MIT",
+  "license": "TUE",
   "devDependencies": {
     "browserify": "^13.0.0",
     "chai": "^3.2.0",
